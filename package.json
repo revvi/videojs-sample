@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "video.js": "^7.10.2"
+  },
+  "dependencies": {
+    "videojs-hls-quality-selector": "^1.1.4"
+  }
+}
